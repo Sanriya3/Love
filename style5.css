@@ -11,15 +11,12 @@ width:12000px;
 height: 190px;
 margin: 20px;
 padding: 10px;}
-#b2{background-color: blue; text-align:center;font-style:times new roman;
-width:5px; 
-height: 3px;
-float:left;}
+#b2{float:left;height:500px;width:250px;font-weight:700;}
 #b3{margin: 20px;text-align:center;font-style:times new roman; 
 height: 300px;float:right;
 background-image: url(marmeladki.png);}
 #b4{width:200px; height: 100px;float:right;text-align:center;font-style:times new roman;
-#b5{background-color: red; text-align:center;font-style:times new roman;
+#b5{ text-align:center;font-style:times new roman;
 width:12000px; 
 height: 190px;
   clear:both;}
