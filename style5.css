@@ -1,22 +1,24 @@
 .ho1{background-color: skyblue;}
 .ho2{background-color: grey;}
 .ho3{background-color: orange;}
-.ho4{background-color: red;
+.ho4{background-color: red;}
 .ho5{background-color: light-green;}
 div{text-align:center;font-style:Times New Roman;
-  padding:10px; 
-  margin: 20px;} 
+padding:10px; 
+margin: 20px;} 
 #b1{background-color: brown; text-align:center;font-style:times new roman;
 width:12000px; 
 height: 190px;
 margin: 20px;
 padding: 10px;}
-#b2{float:left;height:500px;width:250px;font-weight:700;}
+#b2{float:left;height:300px;width:500px;font-weight:700;}
 #b3{margin: 20px;text-align:center;font-style:times new roman; 
-height: 300px;float:right;
+width:500px; height: 300px;float:right;
 background-image: url(marmeladki.png);width:5px;height:5px;}
 #b4{width:200px; height: 100px;float:right;text-align:center;font-style:times new roman;
 #b5{ text-align:center;font-style:times new roman;
+padding:10px; 
+margin: 20px;
 width:12000px; 
 height: 190px;
   clear:both;}
